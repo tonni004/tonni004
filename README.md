@@ -1,5 +1,5 @@
 # Hey 👋, I'm Tanya! A frontend developer from the freest country in the world 🇺🇦  
-  <br/>  
+
 
 <div align="right">
 <a href="https://github.com/tonni004" target="_blank">
@@ -26,25 +26,20 @@ I'd say I'm more of a frontend-focused person. Writing in JavaScript and creatin
 
 
 ## About me 
+
 - 👩‍💻 I’m currently working on ["Ex-book change" app
 ](https://github.com/tonni004/ex-book-change-app)
-
+- 🌱 I’m currently learning Angular & Next.js 
+- ⚡ Looks like I have a deficiency of night mode in my blood  
+- 📚 In my free time from coding, I transform into a total bookworm girl. One day, I dream of starting a fantasy book club and never leaving the house again!
 - 👀 To get to know me better, I invite you to watch [my portfolio](https://portfolio-tonni004.netlify.app/)
-  
-
-- 🌱 I’m currently learning Angular & Next.js  
-  
-
--  📚 In my free time from coding, I transform into a total bookworm girl. One day, I dream of starting a fantasy book club and never leaving the house again!
-  
--  ⚡ Looks like I have a deficiency of night mode in my blood  
   
 
 <br/>  
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -79,9 +74,4 @@ I'd say I'm more of a frontend-focused person. Writing in JavaScript and creatin
 ## Check out my projects 👇  
 I love honing my skills through self-initiated pet projects. Check out app code and demo link – I'd love to hear your feedback! I'm always striving to be a better developer and appreciate any insights you can share.  
   
-
-<br/>  
-
-  
-
 <br/>  
